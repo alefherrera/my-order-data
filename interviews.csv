@@ -1,0 +1,11 @@
+age,profession,order,paper_time,app_time,frecuency,use_delivery,use_restaurant,worst_moment,time,wrong_dish,intuition,would_use,recommend,easy,remove_paper
+27,Sistemas,CA,40,60,Dos veces por mes,si,no,Pagar,10,1,5,si,5,No sabe,no
+45,Sistemas,AC,95,150,Dos veces por mes,no,no,Esperar el pedido,10,1,4,si,4,Aplicación,no
+55,Comerciante,CA,133,80,Una por mes,si,no,Esperar el pedido,10,0,5,no,1,Aplicación,no
+50,Comerciante,AC,60,80,Una por mes,no,no,Esperar el pedido,5,0,4,no,4,No sabe,no
+25,Deporte,AC,55,70,Más de 4 veces,si,si,Esperar el pedido,10,1,5,si,5,Carta,no
+55,Arquitectura,AC,80,157,Más de 4 veces,no,si,Esperar el pedido,0,0,3,si,3,Aplicación,si
+46,Docencia,CA,120,80,Dos veces por mes,no,no,Salir de casa,0,0,3,no,3,Carta,no
+27,Industria,CA,120,60,Una por mes,si,no,Esperar el pedido,15,0,5,si,4,Carta,no
+25,Docencia,CA,180,120,Más de 4 veces,si,no,Esperar el pedido,10,0,5,si,5,Aplicación,no
+30,Industria,AC,65,52,Dos veces por mes,si,no,Pagar,15,1,4,si,5,Carta,si
