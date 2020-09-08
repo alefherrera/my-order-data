@@ -1,4 +1,4 @@
-age,profession,order,paper_time,app_time,frecuency,use_delivery,use_restaurant,worst_moment,time,wrong_dish,intuition,would_use,recommend,easy,remove_paper,doubts,benefits,waiter
+Edad,Profesión,Orden,T Carta,T App,Frecuencia restaurant,usa app para comida?,App en restaurant?,Momento más frustrante en el restaurant,Tiempo en ser atendido,Frecuencia de plato equivocado,Escala de intuición? ,Utilizaría la App?,Probabilidad de recomendarla?,Cuál es más sencilla?,Eliminaría la carta?,Duda de cómo usar algun boton?,Beneficio de la app,Menciona que prefiere interactuar con el mozo?
 27,Sistemas,CA,40,60,Dos veces por mes,si,no,Pagar,10,1,5,si,5,No sabe,no,si,Menos costo,no
 45,Sistemas,AC,95,150,Dos veces por mes,no,no,Esperar el pedido,10,1,4,si,4,Aplicación,no,si,Rapidez,no
 55,Comerciante,CA,133,80,Una por mes,si,no,Esperar el pedido,10,0,5,no,1,Aplicación,no,no,Ninguno,si
